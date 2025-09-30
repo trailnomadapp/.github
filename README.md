@@ -1,2 +1,0 @@
-# TrailNomad
-## The hiking revolution.
