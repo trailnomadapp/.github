@@ -1,4 +1,4 @@
-# TrailNomad 🥾🌲
+# TrailNomad
 
 TrailNomad is a hiking companion app built with **SwiftUI**, designed to be both **accessible** and **beautiful**.  
 Our mission is to create an app that makes outdoor exploration easy, enjoyable, and inspiring.  
@@ -51,15 +51,15 @@ TrailNomad is built around **clarity** and **ease of use**:
 
 ## 🎨 Visual Style Guide
 
-> TrailNomad is more than features — it’s an experience.  
+> TrailNomad is more than features, it’s an experience.  
 
 ### Colors & Design
 - **Accent**: TrailNomad Green (#40F16F)
-- **Background**: Spatial Backgrounds with hight quality images
+- **Background**: Spatial Backgrounds with high quality images
 - **Text**: Off-white and Off-black
 
 ### Typography
-- **Headings**: San Francisco Rounded (bold, large, readable outdoors)  
+- **Headings**: San Francisco (VARIABLE) Expanded (bold, large, readable outdoors)  
 - **Body**: San Francisco (regular, adaptable with Dynamic Type)  
 
 ### UI Philosophy
@@ -74,7 +74,8 @@ TrailNomad is built around **clarity** and **ease of use**:
 - **SwiftUI** for UI  
 - **Combine** for data management  
 - **CoreLocation** for GPS tracking  
-- **CoreML & Vision (future)** for image depth and scene analysis  
+- **CoreML & Vision (future)** for image depth and scene analysis
+- **React + Typescript** for TrailNomad Web 
 
 ---
 
